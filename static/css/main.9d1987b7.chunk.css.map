@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,SACE,YAAa,CACb,aAAA,CAAA,QAAS","file":"main.9d1987b7.chunk.css","sourcesContent":[".buttons {\n  display: flex;\n  gap: 20px;\n}"]}
